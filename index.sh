@@ -1,1 +1,1 @@
-echo "Repo publica cambio2"
+echo "curso de jenkins"
